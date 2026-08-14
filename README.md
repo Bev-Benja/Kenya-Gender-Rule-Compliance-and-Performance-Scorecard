@@ -12,6 +12,7 @@ While these constitutional mandates guide government arms on how to actively enc
 While the evidence on women leaders' performance over the last four years - including during the period of political and gender-related unrest between 2023 and 2026 - lends credibility to public calls for scrapping County Woman Representative seats, this project argues that the more justified conclusion is structural reform rather than elimination; the primary defect lies in the candidate selection, political party accountability, and governance execution mechanisms, not in the constitutional existence of the seats themselves.
 ## Data & Sources
 This project draws on constitutional text, governmental/legal analysis and news reporting
+
 **Legal basis** - Articles 27(6),27(8),81(b) and 97(1)(b) of the Constitution of Kenya, 2010.
 ## Status
 This is an ongoing research project. The constitutional basis and Q1 source data are complete; Q2 data collection - tracking legislative and crisis-response performance across Woman Representatives, MPs, and Senators - is actively in progress, with findings and analysis being added as they're completed. Q3's conclusion will follow once Q2 is complete.
